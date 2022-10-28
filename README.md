@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=zPrototype&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zPrototype&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zPrototype&show_icons=true&theme=tokyonight)
 
